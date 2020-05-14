@@ -1,0 +1,1 @@
+Use getFullYear() instead of getYear(). The first returns 4 digit years, while the second returns 2 or 3 digit years.

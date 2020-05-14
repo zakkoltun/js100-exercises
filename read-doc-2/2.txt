@@ -1,0 +1,8 @@
+Primitive data types:
+- undefined
+- Boolean
+- Number
+- String
+- BigInt
+- Symbol
+- Null
